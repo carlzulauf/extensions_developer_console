@@ -1,7 +1,7 @@
 Extensions Developer Console
 ============================
 
-Simple proposed extension for Google Chrome, and possibly other browsers.
+Simple extension for Google Chrome, and possibly other browsers.
 
 Goal
 ----
