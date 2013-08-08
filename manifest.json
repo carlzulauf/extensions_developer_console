@@ -1,0 +1,21 @@
+{
+  "name": "Extensions Developer Console",
+  "description": "Provide a regular javascript console, with access to internal browser APIs and services.",
+
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "browser_action": {
+    "default_icon": {
+      "19": "icon19.png",
+      "38": "icon38.png"
+    },
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "<all_urls>",
+    "alarms",
+    "bookmarks"
+  ]
+}
