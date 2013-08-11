@@ -42,20 +42,4 @@
     "webRequest"
   ]
 
-  // beta/dev/trunk channel permissions not added:
-  // * declarativeContent
-  // * declarativeWebRequest
-  // * downloads
-  // * identity
-  // * infobars
-  // * location
-  // * sessionRestore
-  // * system.cpu
-  // * system.memory
-  // * system.storage
-  // * tabCapture
-
-  // Chrome OS only permissions not added:
-  // * fileBrowserHandler
-
 }
