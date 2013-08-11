@@ -16,6 +16,46 @@
   "permissions": [
     "<all_urls>",
     "alarms",
-    "bookmarks"
+    "bookmarks",
+    "browsingData",
+    "contentSettings",
+    "contextMenus",
+    "cookies",
+    "debugger",
+    "fontSettings",
+    "history",
+    "idle",
+    "input",
+    "management",
+    "notifications",
+    "pageCapture",
+    "power",
+    "privacy",
+    "proxy",
+    "pushMessaging",
+    "storage",
+    "tabs",
+    "topSites",
+    "tts",
+    "ttsEngine",
+    "webNavigation",
+    "webRequest"
   ]
+
+  // beta/dev/trunk channel permissions not added:
+  // * declarativeContent
+  // * declarativeWebRequest
+  // * downloads
+  // * identity
+  // * infobars
+  // * location
+  // * sessionRestore
+  // * system.cpu
+  // * system.memory
+  // * system.storage
+  // * tabCapture
+
+  // Chrome OS only permissions not added:
+  // * fileBrowserHandler
+
 }
