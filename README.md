@@ -37,3 +37,12 @@ Beta/dev/trunk channel permissions not added:
 Chrome OS only permissions not added:
 
 * fileBrowserHandler
+
+Credits
+-------
+
+Extension developed by Carl Zulauf.
+
+Icon borrowed from [Humanity Icons][humanity] under GPLv2.
+
+[humanity]: https://launchpad.net/humanity
