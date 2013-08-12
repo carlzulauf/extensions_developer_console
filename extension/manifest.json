@@ -1,8 +1,8 @@
 {
   "name": "Extensions Developer Console",
-  "description": "Provide a regular javascript console, with access to internal browser APIs and services.",
+  "description": "Provides a javascript console with access to internal browser APIs.",
 
-  "version": "0.2",
+  "version": "0.2.1",
   "manifest_version": 2,
 
   "browser_action": {
